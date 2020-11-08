@@ -6,7 +6,7 @@ Give asset image in hexo a absolutely path automatically
 # Usege
 
 ```shell
-npm install hexo-asset-image --save
+npm install https://github.com/code004Accepted/hexo-asset-image.git --save
 ```
 
 # Example
